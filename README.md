@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Hojiakbar Mahmudov, software developer from [Tashkent]. Welcome to my GitHub profile!
+I'm Hojiakbar Mahmudov, software developer from Tashkent. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on [Python Development]
-- 👯 I’m looking to collaborate on [Python]
+- 🔭 I’m currently working on Python Development
+- 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Python, Django
 
 ## Skills

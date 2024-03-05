@@ -47,7 +47,6 @@ I'm Hojiakbar Mahmudov, software developer from Tashkent. Welcome to my GitHub p
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hojimahmudov&show_icons=true&hide_rank=true&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hojimahmudov)
 
 

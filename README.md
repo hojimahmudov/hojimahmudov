@@ -2,9 +2,8 @@
 
 I'm Hojiakbar Mahmudov, software developer from Tashkent. Welcome to my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=hojimahmudov)
 ![GIF](https://camo.githubusercontent.com/4bb3061557b52cb85c729389dc7b9123661187c7c28dcdae23de91d4b67b43bd/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966)
-
+![Profile Views](https://komarev.com/ghpvc/?username=hojimahmudov)
 ## About Me
 
 - 🔭 I’m currently working on Python Development
